@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Danyal Piran 👋
+
+🔐 Penetration Tester & Security Researcher
+
+🔍 Passionate about finding vulnerabilities and making systems more secure
+
+🛠️ Skills: Penetration Testing | Bug Bounty | Scripting
+
+📍 Iran
+
+📫 Reach me at: danyalpiran.sec@gmail.com
 
 <!--
 **danyalpiran/danyalpiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
